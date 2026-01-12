@@ -61,3 +61,5 @@ grid on;
 title('vitesse vs angle');
 xlabel('angle (rad)');
 ylabel('vitesse (m/s)');
+
+
